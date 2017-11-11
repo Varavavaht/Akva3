@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2006
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Akva3", "Akva3\Akva3.csproj", "{B002907A-22CF-4F34-AADD-C986974D16E6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get-Set Alternatiiv", "ConsoleApp1\Get-Set Alternatiiv.csproj", "{9E4E8F8E-E190-4F55-8B2D-567C80AC3370}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Akva", "Akva-copy\Akva.csproj", "{C6000937-F4C7-449A-98B8-3C0B2474A77E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B002907A-22CF-4F34-AADD-C986974D16E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B002907A-22CF-4F34-AADD-C986974D16E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B002907A-22CF-4F34-AADD-C986974D16E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B002907A-22CF-4F34-AADD-C986974D16E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E4E8F8E-E190-4F55-8B2D-567C80AC3370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E4E8F8E-E190-4F55-8B2D-567C80AC3370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E4E8F8E-E190-4F55-8B2D-567C80AC3370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E4E8F8E-E190-4F55-8B2D-567C80AC3370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6000937-F4C7-449A-98B8-3C0B2474A77E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6000937-F4C7-449A-98B8-3C0B2474A77E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6000937-F4C7-449A-98B8-3C0B2474A77E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6000937-F4C7-449A-98B8-3C0B2474A77E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

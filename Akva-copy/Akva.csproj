@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B002907A-22CF-4F34-AADD-C986974D16E6}</ProjectGuid>
+    <ProjectGuid>{C6000937-F4C7-449A-98B8-3C0B2474A77E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Akva3</RootNamespace>
-    <AssemblyName>Akva3</AssemblyName>
+    <RootNamespace>Akva_copy</RootNamespace>
+    <AssemblyName>Akva-copy</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Akva.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
